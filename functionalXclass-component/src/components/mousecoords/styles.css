@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 36px;
+}
+
+.button {
+  padding: 8px 16px;
+  background: #f107ba;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+}
